@@ -78,7 +78,7 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 
  
  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors 👀 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CantanhedeSarch}/count.svg" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=footer"/>
