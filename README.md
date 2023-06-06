@@ -68,9 +68,9 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/CantanhedeSarch">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CantanhedeSarch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CantanhedeSarch&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
