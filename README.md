@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=header"/>
+
 <img align="right" width="250px" style="margin-top:-20px" src="![WhatsApp_Image_2023-05-29_at_18 17 50-removebg-preview](https://github.com/CantanhedeSarch/CantanhedeSarch/assets/128187105/c63e85eb-a8a5-4d68-9383-cb115dc86444)
 ">
 
@@ -79,3 +81,4 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CantanhedeSarch}/count.svg" /></p> 
 <br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=footer"/>
