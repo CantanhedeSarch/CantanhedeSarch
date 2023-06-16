@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=header"/>
 
-<img align="right" width="250px" style="margin-top:-20px" src="![WhatsApp_Image_2023-05-29_at_18 17 50-removebg-preview](https://github.com/CantanhedeSarch/CantanhedeSarch/assets/128187105/c63e85eb-a8a5-4d68-9383-cb115dc86444)
-">
+<img align="right" width="250px" style="margin-top:-20px" src="C:\Users\Lúcia\Desktop\fotosarch.png">
 
 </br>
 </br>
