@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=header"/>
 
 
-
-</br>
 </br>
 
 <div dsplay="inline-block">
  
- <h1 align="left">Sarah Cantanhede</h1>
+ <h1 align="center">Sarah Cantanhede</h1>
  <a href="https://www.instagram.com/__.sarch.__/?hl=pt-br">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
