@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="center">Sarah Cantanhede</h1>
- <a href="https://www.instagram.com/__.sarch.__/?hl=pt-br">
+ <a href="https://www.instagram.com/sarah.cantanhed_/?hl=pt-br">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="">
@@ -57,4 +57,4 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/__.sarch.__/?hl=pt-br) (eu demoro a responder as vezes mas sou legal, juro) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 🙃 
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/sarah.cantanhed_/?hl=pt-br) (eu demoro a responder as vezes mas sou legal, juro) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 🙃 
