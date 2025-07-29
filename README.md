@@ -48,9 +48,9 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Faço parte do Escritório escola do Cest Team da <a href="https://www.cest.edu.br/">Cest</a>;</p>
- <p align="left">📚 Tenho me aplicado em Java, HTML e Flutter iniciei meus estudos para desenvolver apps para Android e IOS;</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">💻 Sou instrutora de Java e SpringBoot do Escritório escola do Cest Team da <a href="https://www.cest.edu.br/">Cest</a>;</p>
+ <p align="left">📚 Tenho me aplicado em Java, React, Python e Flutter, iniciei meus estudos para desenvolver apps para Android e IOS e IAs;</p>
+ <p align="left">☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.</p>
 </div>
 
 
