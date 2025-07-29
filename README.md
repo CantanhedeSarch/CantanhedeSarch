@@ -58,15 +58,3 @@ Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinh
 </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/__.sarch.__/?hl=pt-br) (eu demoro a responder as vezes mas sou legal, juro) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 🙃 
-
-</br>
-
-<a href="https://www.instagram.com/__.sarch.__/?hl=pt-br" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/sarah-andrade-b13a13254/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
- 
- <div align="center">
-<br><p align="centre"><b>Visitors 👀 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CantanhedeSarch}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=footer"/>
