@@ -20,7 +20,7 @@
 
 ## Hello, Devs!!
 
-Tenho 20 anos, moro em São Luís/MA e sou apaixonada por programação e gatinhos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  👩‍💻🤍
+Tenho 22 anos, moro em São Luís/MA e sou apaixonada por programação e gatinhos! Sou aventureira no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  👩‍💻🤍
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
