@@ -65,6 +65,6 @@ Ah, e sim sou apaixonada por tecnologia, gatinhos 🐱, sistemas distribuídos e
 
 ---
 
-📫 Me chama no [Instagram](https://www.instagram.com/sarah.cantanhed_/?hl=pt-br) ou dá uma olhada nos meus repositórios tem projetos sérios, experimentos ousados e algumas madrugadas mal dormidas também 😴✨
+📫 Me chama no [Instagram]([https://www.instagram.com/sarah.cantanhed_/?hl=pt-br](https://www.instagram.com/sarch_cantanhede?igsh=MXFkam9hY3FzemJ2bg==)) ou dá uma olhada nos meus repositórios tem projetos sérios, experimentos ousados e algumas madrugadas mal dormidas também 😴✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=footer"/>
