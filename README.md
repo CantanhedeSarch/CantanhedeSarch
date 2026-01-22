@@ -50,10 +50,10 @@ Ah, e sim sou apaixonada por tecnologia, gatinhos 🐱, sistemas distribuídos e
 
 ##  O que eu faço da vida (além de sobreviver ao deploy):
 
-- 🏗️ **Backend Developer** na *Centra*  
-- 🤖 **Desenvolvedora de Software & IA** no setor de *Inovação do Centro Universitário Santa Terezinha*  
-- 👑 **Presidente Fundadora da Liga LUMINA**  
-- 🚀 Construo APIs, microsserviços, automações, modelos de ML, redes neurais e soluções que tentam deixar o mundo (e os sistemas) menos caóticos.
+-  **Backend Developer** na *Centra*  
+-  **Desenvolvedora de Software & IA** no setor de *Inovação do Centro Universitário Santa Terezinha*  
+-  **Presidente Fundadora da Liga LUMINA**  
+-  Construo APIs, microsserviços, automações, modelos de ML, redes neurais e soluções que tentam deixar o mundo (e os sistemas) menos caóticos.
 
 ---
 
